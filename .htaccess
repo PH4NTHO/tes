@@ -1,0 +1,9 @@
+
+Options -Indexes
+
+php_flag display_errors off
+
+
+ErrorDocument 404 /404.php
+ErrorDocument 403 /404.php
+
